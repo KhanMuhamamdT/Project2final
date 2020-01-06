@@ -19,16 +19,10 @@ This application will provide latest foreign exchange reference rates. Applicati
 - [deployment]()
 
 ## Wireframes
-
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
-
 - [wireframes]()
 ![fish-logo](./components.jpg)
 - [react architecture]()
 ![fish-logo](./Arch.jpg)
-
-
-Define the the React components and the architectural design of your app.
 
 ### MVP/PostMVP - 5min
 
