@@ -23,6 +23,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
 - [wireframes]()
+![fish-logo](./components.jpg)
 - [react architecture]()
 
 
