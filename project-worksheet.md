@@ -5,9 +5,13 @@
 
 This application will provide latest foreign exchange reference rates. Application will provide the three search 
 - Latest Link
-	-After clicking on the link application will provide the latest reference rates . Eur will be used for the base currency.
+	-After clicking on the link application will provide the list of latest reference rates . Eur will be used for the base currency.
 - Symbol Link 
    - This will provide the specific search against the specific currancy 
+- Base 
+   - This link will provide the capability to select the base for the rtes
+- Base and Symbol
+   - This link will provide the capability to select the base and the cuurency. 
 
 ## Project Links
 
