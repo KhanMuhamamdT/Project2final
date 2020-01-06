@@ -49,8 +49,12 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| Header | This will render the header include the nav | 
-| Footer | This will render the header include the nav | 
+| Latest | This will render the Latest  component |
+| Symbol | This will render the Symbol compnent |
+| Base | This will render the Base component|
+| Base-symbol | This will render the Base-Symbol component|
+| Header | This will render the header  | 
+| Footer | This will render the header | 
 
 ## Time Frames
 
