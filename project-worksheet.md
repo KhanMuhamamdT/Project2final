@@ -70,8 +70,8 @@ Above functionality are MPV requirements.
 | Total | H | 40hrs| hrs | 5hrs |
 
 ## Additional Libraries and Toola
-  -React, React router , BootStrap,  
-  - Visual Stusio
+  - React, React router , BootStrap,  
+  - Visual Studio
 ## Code Snippet
 
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
