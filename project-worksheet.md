@@ -3,7 +3,9 @@
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+This apploication will provide latest foreign exchange reference rates. Basically this app will provide the three search 
+- Latest Link
+	After clicking on the link application will provide the latest reference rates . Eur will be used for the base currency.
 
 ## Project Links
 
