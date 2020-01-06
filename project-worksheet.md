@@ -61,16 +61,16 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
 | Documentation  | H | 3hrs| 3 hrs |   |
 | Working with API | H | 5 hrs|  |  |
 | Components - Latest| H | 5 hrs| |  |
 | Components - Symbol | H | 5 hrs|  |  |
 | Components - Base | H | 5 hrs|  |  |
 | Components - Base abd Symbo | 5 H | | 2.5hrs |  |
-| Working with API | H | 3hrs| |  |
+| Testing and code refactoring  | 5 H| | |  |
+| BootStrap   | H | 5hrs| |  |
 
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Total | H | 40hrs| hrs | 5hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
