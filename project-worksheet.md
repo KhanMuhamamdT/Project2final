@@ -42,10 +42,7 @@ Above functionality are MPV requirements.
 - API - To get past conversion rates
 
 ## Components
-##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
-
-Based on the initial logic defined in the previous sections try and breakdown the logic further into stateless/stateful components. 
-
+#####  
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
@@ -66,8 +63,8 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Components - Latest| H | 5 hrs| |  |
 | Components - Symbol | H | 5 hrs|  |  |
 | Components - Base | H | 5 hrs|  |  |
-| Components - Base abd Symbo | H | | 3 hrs |  |
-| Testing and code refactoring  | H| | 5 hrs |  |
+| Components - Base and Symbo | H | 3 hrs |  |  |
+| Testing and code refactoring  | H| 5 hrs  | |  |
 | BootStrap   | H | 5hrs| |  |
 
 | Total | H | 40hrs| hrs | 5hrs |
