@@ -66,8 +66,8 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | Components - Latest| H | 5 hrs| |  |
 | Components - Symbol | H | 5 hrs|  |  |
 | Components - Base | H | 5 hrs|  |  |
-| Components - Base abd Symbo | 5 H | | 2.5hrs |  |
-| Testing and code refactoring  | 5 H| | |  |
+| Components - Base abd Symbo | H | | 3 hrs |  |
+| Testing and code refactoring  | H| | 5 hrs |  |
 | BootStrap   | H | 5hrs| |  |
 
 | Total | H | 40hrs| hrs | 5hrs |
