@@ -63,12 +63,12 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
 | Documentation  | H | 3hrs| 3 hrs |   |
-| Working with API | H | 3hrs| 2.5hrs |  |
-| Components - Latest| H | 3hrs| 2.5hrs |  |
-| Components - Symbol | H | 3hrs| 2.5hrs |  |
-| Components - Symbol | H | 3hrs| 2.5hrs |  |
-| Components - Symbol | H | 3hrs| 2.5hrs |  |
-| Working with API | H | 3hrs| 2.5hrs |  |
+| Working with API | H | 5 hrs|  |  |
+| Components - Latest| H | 5 hrs| |  |
+| Components - Symbol | H | 5 hrs|  |  |
+| Components - Base | H | 5 hrs|  |  |
+| Components - Base abd Symbo | 5 H | | 2.5hrs |  |
+| Working with API | H | 3hrs| |  |
 
 | Total | H | 6hrs| 5hrs | 5hrs |
 
