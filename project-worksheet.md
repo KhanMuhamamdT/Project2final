@@ -24,10 +24,6 @@ This application will provide latest foreign exchange reference rates. Applicati
 ## Architecture
 ![fish-logo](./Arch.jpg)
 
-### MVP/PostMVP - 5min
-Above functionality are MPV requirements.
-
-
 ## List of API's
   - https://api.ratesapi.io/api/latest
   - https://api.ratesapi.io/api/latest
