@@ -5,7 +5,7 @@
 
 This apploication will provide latest foreign exchange reference rates. Basically this app will provide the three search 
 - Latest Link
-	After clicking on the link application will provide the latest reference rates . Eur will be used for the base currency.
+	-After clicking on the link application will provide the latest reference rates . Eur will be used for the base currency.
 
 ## Project Links
 
