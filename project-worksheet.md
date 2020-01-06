@@ -21,7 +21,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 ## Wireframes
 
 ![fish-logo](./components.jpg)
-- [react architecture]()
+## Architecture
 ![fish-logo](./Arch.jpg)
 
 ### MVP/PostMVP - 5min
