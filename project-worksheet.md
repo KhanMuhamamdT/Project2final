@@ -15,7 +15,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 
 ## Project Links
 
-- [github repo]()
+- [https://git.generalassemb.ly/KhanMuhammadT/project-2.git]()
 - [deployment]()
 
 ## Wireframes
