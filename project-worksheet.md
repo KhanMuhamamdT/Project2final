@@ -19,7 +19,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 - [deployment]()
 
 ## Wireframes
-- [wireframes]()
+
 ![fish-logo](./components.jpg)
 - [react architecture]()
 ![fish-logo](./Arch.jpg)
