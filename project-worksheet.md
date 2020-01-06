@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This application will provide latest foreign exchange reference rates. Application will provide the three search 
+This application will provide latest foreign exchange reference rates. Application will provide the following links.
 - Latest Link
 	-After clicking on the link application will provide the list of latest reference rates . Eur will be used for the base currency.
 - Symbol Link 
