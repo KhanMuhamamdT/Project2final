@@ -29,7 +29,11 @@ Above functionality are MPV requirements.
 
 #### MVP EXAMPLE
 - List of API's
-  --https://api.ratesapi.io/api/latest
+  -https://api.ratesapi.io/api/latest
+  -https://api.ratesapi.io/api/latest
+  -https://api.ratesapi.io/api/latest?base=USD
+  -https://api.ratesapi.io/api/latest?base=USD&symbols=GBP
+  
 - Render data on page 
 - Allow user to interact with the page for the above components
 
