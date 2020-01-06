@@ -25,11 +25,11 @@ This application will provide latest foreign exchange reference rates. Applicati
 ![fish-logo](./Arch.jpg)
 
 ### MVP/PostMVP - 5min
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
+Above functionality are MPV requirements.
 
 #### MVP EXAMPLE
-- Identify the API's  
+- List of API's
+  --https://api.ratesapi.io/api/latest
 - Render data on page 
 - Allow user to interact with the page for the above components
 
