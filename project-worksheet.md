@@ -29,13 +29,13 @@ This application will provide latest foreign exchange reference rates. Applicati
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP EXAMPLE
-- Find and use external api 
+- Identify the API's  
 - Render data on page 
-- Allow user to interact with the page
+- Allow user to interact with the page for the above components
 
 #### PostMVP EXAMPLE
 
-- Add localStorage or firebase for storage
+- API - To get past conversion rates
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
