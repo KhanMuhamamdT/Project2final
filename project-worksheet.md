@@ -27,17 +27,17 @@ This application will provide latest foreign exchange reference rates. Applicati
 ### MVP/PostMVP - 5min
 Above functionality are MPV requirements.
 
-#### MVP EXAMPLE
+
 ## List of API's
   - https://api.ratesapi.io/api/latest
   - https://api.ratesapi.io/api/latest
   - https://api.ratesapi.io/api/latest?base=USD
   - https://api.ratesapi.io/api/latest?base=USD&symbols=GBP
-  
+##  MVP
   - Render data on page 
   - Allow user to interact with the page for the above components
 
-#### PostMVP EXAMPLE
+## PostMVP 
 
 - API - To get past conversion rates
 
