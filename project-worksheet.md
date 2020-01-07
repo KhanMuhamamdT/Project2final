@@ -62,8 +62,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 | Components - Base and Symbo | H | 3 hrs |  |  |
 | Testing and code refactoring  | H| 5 hrs  | |  |
 | BootStrap   | H | 5hrs| |  |
-
-| Total | H | 40hrs| hrs | 5hrs |
+| Total | H | 40hrs| |  |
 
 ## Additional Libraries and Toola
   - React, React router , BootStrap,  
