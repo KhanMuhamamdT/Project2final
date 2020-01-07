@@ -20,7 +20,7 @@ This application will provide latest foreign exchange reference rates. Applicati
 
 ## Wireframes
 
-![fish-logo](./components.jpg)
+![fish-logo](./wireframes.jpg)
 ## Architecture
 ![fish-logo](./Arch.jpg)
 
