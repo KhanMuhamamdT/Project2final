@@ -56,10 +56,10 @@ This application will provide latest foreign exchange reference rates. Applicati
 | --- | :---: |  :---: | :---: | :---: |
 | Documentation  | H | 3hrs| 6 hrs | 6 hrs  |
 | Working with API | H | 6 hrs| 6 hrs |  6 hrs |
-| Components - Latest Stock| H | 5 hrs| | 7 hrs  | 7 hrs |
-| Components - Headernav| H | 5 hrs| | 6 hrs  | 6 hrs |
-| Components - Latest Stock with Base Currency| H | 5 hrs| 4 hrs|  | 4hrs
-| Components - Latest Stock with Base  and Currency selection | H | 6 hrs| 6 hrs |  6 hrs |
+| Components - Latest Stock | H | 4 hrs| 6 hrs |  6 hrs |
+| Components - Headernav | H | 4 hrs| 6 hrs |  6 hrs |
+| Components - Latest Stock with Base Currency | H | 4 hrs| 6 hrs |  6 hrs |
+| Components - Latest Stock with Base and Currency | H | 4 hrs| 6 hrs |  6 hrs |
 | BootStrap| H | 5 hrs| |   |  |
 | Testing and code refactoring  | H| 5 hrs  | |  |
 | BootStrap   | H | 5hrs| |  |
