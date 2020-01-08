@@ -73,10 +73,11 @@ This application will provide latest foreign exchange reference rates. Applicati
 ![fish-logo](./code.jpg)
  - Code to display the nested object
  ![fish-logo](./code2.png)
-## Issues and Resolutions
+## 1- Issues and Resolutions
 **ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
+## 2- Issues and Resolutions
 **ERROR**: Selected vlalue in the drop down was not returning 
  ![fish-logo](./Bind.jpg)
   Binding was not implemented
