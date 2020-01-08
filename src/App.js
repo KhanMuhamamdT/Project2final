@@ -1,18 +1,19 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router';
-import Header from './Header'
-import Main from './Main'
+import Headernav from './components/Headernav'
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 class App extends Component {
-  
-
-  render() {
-
+render() {
   return (
-        <Header />
-         
-  );
-}
-}
+    <div>
+     <Header />
+     <Headernav />
+     <Footer />
+     </div>
 
+    );
+  }
+}
 export default App;
