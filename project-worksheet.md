@@ -54,12 +54,13 @@ This application will provide latest foreign exchange reference rates. Applicati
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Documentation  | H | 3hrs| 5 hrs | 5 hrs  |
-| Working with API | H | 5 hrs| 4 hrs |  4 hrs |
-| Components - Latest Stock| H | 5 hrs| | 6 hrs  | 6 hrs |
+| Documentation  | H | 3hrs| 6 hrs | 6 hrs  |
+| Working with API | H | 6 hrs| 6 hrs |  6 hrs |
+| Components - Latest Stock| H | 5 hrs| | 7 hrs  | 7 hrs |
 | Components - Headernav| H | 5 hrs| | 6 hrs  | 6 hrs |
-| Components - Latest Stock with Base Currency| H | 5 hrs| 3 hrs|  | 3 hrs
-| Components - Latest Stock with Base  and Currency selection | H | 5 hrs| 4 hrs | 4 hrs  |
+| Components - Latest Stock with Base Currency| H | 5 hrs| 4 hrs|  | 4hrs
+| Components - Latest Stock with Base  and Currency selection | H | 6 hrs| 6 hrs |  6 hrs |
+| BootStrap| H | 5 hrs| |   |  |
 | Testing and code refactoring  | H| 5 hrs  | |  |
 | BootStrap   | H | 5hrs| |  |
 | Total | H | 40hrs| |  |
@@ -78,14 +79,7 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
-
-#### SAMPLE.....
 **ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-  <div>  "Added the Dev tag
-     <Header />
-     <Headernav />
-     <Footer />
-    </div>
+   - <div>  "Added the Dev tag <div>  <Header /> <Headernav /> </div> 
