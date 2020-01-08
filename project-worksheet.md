@@ -77,4 +77,6 @@ This application will provide latest foreign exchange reference rates. Applicati
 **ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-  
+**ERROR**: Selected vlalue in the drop down was not returning 
+ ![fish-logo](./Bind.jpg)
+  Binding was not implemented
