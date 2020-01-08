@@ -69,8 +69,10 @@ This application will provide latest foreign exchange reference rates. Applicati
   - React, React router , BootStrap,  
   - Visual Studio
 ## Code Snippet
+   - Terniary operator used to dynamically show the lable.
 ![fish-logo](./code.jpg)
-
+ - Code to display the nested object
+ ![fish-logo](./code2.png)
 ## Issues and Resolutions
 **ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
