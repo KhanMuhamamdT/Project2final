@@ -69,17 +69,10 @@ This application will provide latest foreign exchange reference rates. Applicati
   - React, React router , BootStrap,  
   - Visual Studio
 ## Code Snippet
-
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
-
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
+![fish-logo](./code.jpg)
 
 ## Issues and Resolutions
 **ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-   - <div>  "Added the Dev tag <div>  <Header /> <Headernav /> </div> 
+  
