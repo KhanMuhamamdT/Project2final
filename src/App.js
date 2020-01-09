@@ -10,9 +10,8 @@ render() {
    <div>
      <Header />
      <Headernav />
-     <Footer />
-    </div>
-
+      <Footer />
+      </div>
     );
   }
 }

@@ -3,8 +3,11 @@ import './App.css';
 function Footer() {
   const greeting = 'Footer';
   return (
-  <div>
-  <h1>{greeting}</h1>
+  <div align ="center"  className="footer">
+  
+  Contact : MK Development 
+  
+  
   </div>
 
   )

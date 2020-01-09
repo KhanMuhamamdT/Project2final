@@ -53,24 +53,38 @@ class Symbol extends React.Component {
        return (
                         <div style={dropdown} className="App">
                    <form onSubmit={this.handleSubmit}>
-                       <select value={this.state.value} onChange={this.handleChange}>
+                      
+                       <select  value={this.state.value} onChange={this.handleChange}>
+                     
                       {
                       Object.keys(this.props.rates).map((symb, index)=>(
                      <option key={index}>{symb}</option>
                       ))
                      }
+                     
                      </select>
-                      <input className ="button" type ="submit" value="Submit"/>
+                     
+                      <button type ="submit" class="btn btn-primary" value="Submit">Submit</button>
                       </form>
-                  <div >
+                  <div>
+                     <div class="divdetail"> 
                       {this.state.res.base ? <div>Base Currency :{this.state.res.base} </div>: "" }
+                      </div>
                       {/* <div> Base Currency :  {this.state.res.base} </div> */}
                        {/* <div> Base Currency Date :  {this.state.res.date} </div>  */}
+                       <div class="divdetail"> 
                         {this.state.res.date? <div>Base Currency Date:{this.state.res.date}</div>: "" }
+                     </div>
+                     
+                     {this.state.res.date? <div class="divdetail">Currencies with Exchange Rates</div>: "" }
+                     
                       {Object.keys(this.state.rates).map((s, index) => {
+                      
                       return(
                       <div class="divdetail"> 
+                    <span>
                     <div key={index}>{s}: {this.state.res.rates[s]}</div>
+                    </span>
                    </div>
           
                        )   

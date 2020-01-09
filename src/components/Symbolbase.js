@@ -27,8 +27,6 @@ class Symbolbase extends React.Component {
       this.setState({value2: event.target.value });
     
     }
-
-       
     handleSubmit(event) {
      
       if (this.state.value == undefined){
@@ -60,10 +58,9 @@ class Symbolbase extends React.Component {
         console.log ('end of symbol  ....')
        return (
           
-              <div style={dropdown} className="dropdown">
-                   <form onSubmit={this.handleSubmit}>
-                     
-                         <select value={this.state.value} onChange={this.handleChange}>
+         <div style={dropdown} className="dropdown">
+            <form onSubmit={this.handleSubmit}>
+                <select  className="selectvaluefirst" value={this.state.value} onChange={this.handleChange}>
                         {
                       Object.keys(this.props.rates).map((symb, index)=>(
                      <option key={index}>{symb}</option>
@@ -79,20 +76,16 @@ class Symbolbase extends React.Component {
                       ))
                      }
                      </select>
-
-
-
-
-                      <input type ="submit" value="Submit"/>
+                      <button type ="submit" class="btn btn-primary" value="Submit">Submit</button>
                       </form>
-                  <div align = "center">
+                  <div class="divdetail">
                       {this.state.res.base ? <div>Base Currency :{this.state.res.base} </div>: "" }
                       {/* <div> Base Currency :  {this.state.res.base} </div> */}
                        {/* <div> Base Currency Date :  {this.state.res.date} </div>  */}
                         {this.state.res.date? <div>Base Currency Date:{this.state.res.date}</div>: "" }
                       {Object.keys(this.state.rates).map((s, index) => {
                       return(
-                      <div align ="center"> 
+                      <div> 
                     <div key={index}>{s}: {this.state.res.rates[s]}</div>
                    </div>
           
@@ -103,5 +96,4 @@ class Symbolbase extends React.Component {
        )
     }
  }
-
  export default Symbolbase;

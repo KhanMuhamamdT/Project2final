@@ -45,7 +45,7 @@ class Headernav extends Component {
   <Router>
       <div>
         <ul>
-          <li id ="1"><Link exact to="/">Latest Stock Report </Link>  </li>
+          <li id ="1"  ><Link exact to="/">Latest Stock Report </Link>  </li>
           <li id ="2"> <Link to="/Symbol">Latest Stock with Base </Link> </li>
           <li id ="3"><Link to="/Symbolbase">Stock Search with Base and  Currency</Link> </li> 
             </ul>

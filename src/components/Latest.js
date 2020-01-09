@@ -32,19 +32,26 @@ class App extends Component {
       console.log('State ' , typeof(this.state.rates), this.state.rates["AUD"])
       
     return (
-       
-      <div className="App">
-        <div> Base Currency :  {this.state.res.base} </div>
-        <div> Base Currency Date :  {this.state.res.date} </div>
-       
-        {Object.keys(this.state.rates).map((s, index) => {
+      <div>
+      
+        <div class="divdetail"> Base Currency :  {this.state.res.base} </div>
+        <div class="divdetail"> Base Currency Date :  {this.state.res.date} </div>
+        <br/>
+        <div class="divdetail"> Currencies with Exchange Rates  </div>
+        <div>
+        {
+        Object.keys(this.state.rates).map((s, index) => {
           return(
-           <div className="divdetail">
+           <div class="divdetail">
+             <span>
             <div key={index}>{s}: {this.state.res.rates[s]}</div>
+            </span>
           </div>
           
             )
-        }) }
+        }) 
+        }
+        </div>
       </div>
          )
   }
