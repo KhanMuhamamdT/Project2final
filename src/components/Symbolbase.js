@@ -9,7 +9,7 @@ let dropdown = {
 class Symbolbase extends React.Component {
    constructor(props) {
       super(props) 
-      this.state = {value : 'CHF' , value2 : 'ABC'}
+      
       this.handleChange = this.handleChange.bind(this);
       this.handleChange2 = this.handleChange2.bind(this);
       this.handleSubmit = this.handleSubmit.bind(this);
@@ -25,13 +25,21 @@ class Symbolbase extends React.Component {
 
     handleChange2(event) {
       this.setState({value2: event.target.value });
-    
+      
+
     }
     handleSubmit(event) {
-     
+      
       if (this.state.value == undefined){
-         this.state.value ='CHF'
+         this.state.value ='USD'
+        
       }
+
+      if (this.state.value2 == undefined){
+        this.state.value2 ='CHF'
+      
+     }
+
       event.preventDefault();
       this.fetchrates()
     }
@@ -58,18 +66,29 @@ class Symbolbase extends React.Component {
         console.log ('end of symbol  ....')
        return (
           
-         <div style={dropdown} className="dropdown">
+         <div style={dropdown} className="dropdown" className="App">
+            <div>
             <form onSubmit={this.handleSubmit}>
-                <select  className="selectvaluefirst" value={this.state.value} onChange={this.handleChange}>
+            <div class='lbltext'>
+                   <label>Select Base Currency</label>
+                   </div>
+               
+                <select   
+                class="form-control" id="exampleFormControlSelect1"
+                value={this.state.value} onChange={this.handleChange}>
                         {
                       Object.keys(this.props.rates).map((symb, index)=>(
-                     <option key={index}>{symb}</option>
+                     <option  key={index}>{symb}</option>
                       ))
                      }
                      </select>
+                     <div class='lbltext'>
+                   <label>Select Base Currency</label>
+                   </div> 
 
-
-                     <select value={this.state.value2} onChange={this.handleChange2}>
+                     <select 
+                     class="form-control" id="exampleFormControlSelect1"
+                     value={this.state.value2} onChange={this.handleChange2}>
                         {
                       Object.keys(this.props.rates).map((symb, index)=>(
                      <option key={index}>{symb}</option>
@@ -78,6 +97,7 @@ class Symbolbase extends React.Component {
                      </select>
                       <button type ="submit" class="btn btn-primary" value="Submit">Submit</button>
                       </form>
+                      </div>
                   <div class="divdetail">
                       {this.state.res.base ? <div>Base Currency :{this.state.res.base} </div>: "" }
                       {/* <div> Base Currency :  {this.state.res.base} </div> */}

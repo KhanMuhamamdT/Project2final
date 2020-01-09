@@ -1,13 +1,11 @@
 import React from 'react';
 import './App.css';
-function Header() {
-//   const greeting = 'Stock Rates';
-  return (
+function Header() 
+  {
+    return (
   <div>
-  
-<div align ="center"  className="Headertitle"></div>
+    <div align ="center"  className="Headertitle"></div>
   </div>
-
   )
 }
 export default Header;

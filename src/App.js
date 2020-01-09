@@ -10,7 +10,7 @@ render() {
    <div>
      <Header />
      <Headernav />
-      <Footer />
+     <Footer />
       </div>
     );
   }
