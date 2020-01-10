@@ -71,7 +71,6 @@ SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must
  **RESOLUTION**
  ![fish-logo](./Bind.jpg)
   
-
 ##  Documenation Resources
   - https://getbootstrap.com/docs/4.1/getting-started/introduction/
   - https://ratesapi.io/
