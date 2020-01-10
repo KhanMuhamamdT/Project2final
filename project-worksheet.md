@@ -12,18 +12,13 @@ This application will provide latest foreign exchange reference rates. Applicati
    - This link will provide the capability to select the base for the rtes
 - Base and Symbol
    - This link will provide the capability to select the base and the cuurency. 
-
 ## Project Links
-
 - [https://git.generalassemb.ly/KhanMuhammadT/project-2.git]()
 - [deployment]()
-
 ## Wireframes
-
 ![fish-logo](./wireframes.jpg)
 ## Architecture
 ![fish-logo](./Arch.jpg)
-
 ## List of API's
   - https://api.ratesapi.io/api/latest
   - https://api.ratesapi.io/api/latest?base=USD
@@ -31,10 +26,8 @@ This application will provide latest foreign exchange reference rates. Applicati
 ##  MVP
   - Render data on page 
   - Allow user to interact with the page for the above components
-
 ## PostMVP 
   - API - To get past conversion rates
-
 ## Components
 #####  
 | Component | Description | 
@@ -50,17 +43,17 @@ This application will provide latest foreign exchange reference rates. Applicati
 ##  Work Break Down Structue
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Documentation  | H | 3hrs| 6 hrs | 6 hrs  |
+| Documentation  | H | 3hrs| 8 hrs | 8 hrs  |
 | Working with API | H | 6 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Headernav | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base Currency | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base and Currency | H | 4 hrs| 6 hrs |  6 hrs |
-| BootStrap| H | 5 hrs| | 3 hrs  | 3 hrs |
+| BootStrap| H | 5 hrs| 3 hrs| 3 hrs |
 | Testing and code refactoring  | H| 5 hrs  | 3 hrs |3 hrs |
 | Issues fixe   | H | 5hrs| 3 hrs | 3 hrs | 
 | Recording    | H | 2 hrs| 2 hrs | 2 hrs | 
-| Total | H | 40hrs| | 53 hrs | 53 hrs  |
+| Total | H | 40hrs| 55 hrs | 55 hrs  |
 
 ## Additional Libraries and Toola
   - React, React router , BootStrap,  
@@ -74,6 +67,14 @@ This application will provide latest foreign exchange reference rates. Applicati
    - ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-  - ERROR: Selected vlalue in the drop down was not returning 
+  - ERROR**: Selected vlalue in the drop down was not returning.Binding was not implemented
+ **RESOLUTION**
  ![fish-logo](./Bind.jpg)
-  Binding was not implemented
+  
+
+##  Documenation Resources
+  - https://getbootstrap.com/docs/4.1/getting-started/introduction/
+  - https://ratesapi.io/
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  - https://css-tricks.com/couple-takes-sticky-footer/
+  - https://reacttraining.com/react-router/web/api/Route
