@@ -74,7 +74,7 @@ SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must
    - ERROR**: Selected vlalue in the drop down was not returning.Binding was not implemented
 **RESOLUTION**: Implemented the binding
  ![fish-logo](./Bind.jpg)
-  - ERROR**: Footer was not displayng properly with search functonality
+   - ERROR**: Footer was not displayng properly with search functonality
 **RESOLUTION**: mplemented the change n CSS and JS fle
 ![fish-logo](./Footerissue.jpg)
 ##  Documenation Resources
