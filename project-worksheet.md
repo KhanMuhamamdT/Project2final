@@ -12,7 +12,7 @@ This application will provide latest foreign exchange reference rates. Applicati
    - This link will provide the capability to select the base for the rtes
 - Base and Symbol
    - This link will provide the capability to select the base and the cuurency. 
-## Header & Navigatons
+- Landing Screen
 ![fish-logo](./HeaderNav.jpg)
 ## Project Links
   - Repsitory
