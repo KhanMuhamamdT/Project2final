@@ -16,7 +16,7 @@ This application will provide latest foreign exchange reference rates. Applicati
   - Repsitory
     - [https://git.generalassemb.ly/KhanMuhammadT/project-2.git]()
   - Deployment Ste
-    - [https://gallant-franklin-a8f9e8.netlify.com/]
+    - [https://gallant-franklin-a8f9e8.netlify.com/]()
 ## Wireframes
 ![fish-logo](./wireframes.jpg)
 ## Architecture
@@ -79,3 +79,4 @@ SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must
   - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   - https://css-tricks.com/couple-takes-sticky-footer/
   - https://reacttraining.com/react-router/web/api/Route
+  - https://help.github.com/en/github/using-git/changing-a-remotes-url
