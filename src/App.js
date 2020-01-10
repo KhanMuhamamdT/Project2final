@@ -11,7 +11,7 @@ render() {
      <Header />
      <Headernav />
      <Footer />
-      </div>
+   </div>
     );
   }
 }

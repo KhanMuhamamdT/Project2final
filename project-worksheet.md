@@ -71,10 +71,12 @@ This application will provide latest foreign exchange reference rates. Applicati
    - ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-  - ERROR**: Selected vlalue in the drop down was not returning.Binding was not implemented
+   - ERROR**: Selected vlalue in the drop down was not returning.Binding was not implemented
  **RESOLUTION**: Implemented the binding
  ![fish-logo](./Bind.jpg)
-
+  - ERROR**: Footer was not displayng properly with search
+ **RESOLUTION**: mplemented the change n CSS and JS fle
+![fish-logo](./Footerissue.jpg)
 ##  Documenation Resources
   - https://getbootstrap.com/docs/4.1/getting-started/introduction/
   - https://ratesapi.io/
