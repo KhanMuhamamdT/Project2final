@@ -56,17 +56,17 @@ This application will provide latest foreign exchange reference rates. Applicati
 | Components - Headernav | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base Currency | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base and Currency | H | 4 hrs| 6 hrs |  6 hrs |
-| BootStrap| H | 5 hrs| | 3 hr  | 3 hr |
-| Testing and code refactoring  | H| 5 hrs  |3 | 3 |3 hrs |
+| BootStrap| H | 5 hrs| | 3 hrs  | 3 hrs |
+| Testing and code refactoring  | H| 5 hrs  | 3 hrs |3 hrs |
 | Issues fixe   | H | 5hrs| 3 hrs | 3 hrs | 
 | Recording    | H | 2 hrs| 2 hrs | 2 hrs | 
-| Total | H | 40hrs| | 51 hrs | 53 hrs
+| Total | H | 40hrs| | 53 hrs | 53 hrs  |
 
 ## Additional Libraries and Toola
   - React, React router , BootStrap,  
   - Visual Studio
 ## Code Snippet
-   - Terniary operator used to dynamically show the lable.
+   - Terniary operator used to dynamically show the label.
 ![fish-logo](./code.jpg)
    - Code to display the nested object
  ![fish-logo](./code2.png)
