@@ -62,7 +62,7 @@ class Symbolbase extends React.Component {
                        }
                     </select>
                       <div class='lbltext'>
-                        <label>Select Base Currency</label>
+                        <label>Select Conversion Currency</label>
                         </div> 
                      <select 
                         class="form-control" id="exampleFormControlSelect1"
