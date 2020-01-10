@@ -13,8 +13,10 @@ This application will provide latest foreign exchange reference rates. Applicati
 - Base and Symbol
    - This link will provide the capability to select the base and the cuurency. 
 ## Project Links
-- [https://git.generalassemb.ly/KhanMuhammadT/project-2.git]()
-- [deployment]()
+  - Repsitory
+    - [https://git.generalassemb.ly/KhanMuhammadT/project-2.git]()
+  - Deployment Ste
+    - [https://gallant-franklin-a8f9e8.netlify.com/]
 ## Wireframes
 ![fish-logo](./wireframes.jpg)
 ## Architecture
@@ -68,9 +70,9 @@ This application will provide latest foreign exchange reference rates. Applicati
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
   - ERROR**: Selected vlalue in the drop down was not returning.Binding was not implemented
- **RESOLUTION**
+ **RESOLUTION**: Implemented the binding
  ![fish-logo](./Bind.jpg)
-  
+
 ##  Documenation Resources
   - https://getbootstrap.com/docs/4.1/getting-started/introduction/
   - https://ratesapi.io/
