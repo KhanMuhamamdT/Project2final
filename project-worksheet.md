@@ -26,7 +26,6 @@ This application will provide latest foreign exchange reference rates. Applicati
 
 ## List of API's
   - https://api.ratesapi.io/api/latest
-  - https://api.ratesapi.io/api/latest
   - https://api.ratesapi.io/api/latest?base=USD
   - https://api.ratesapi.io/api/latest?base=USD&symbols=GBP
 ##  MVP
@@ -34,8 +33,7 @@ This application will provide latest foreign exchange reference rates. Applicati
   - Allow user to interact with the page for the above components
 
 ## PostMVP 
-
-- API - To get past conversion rates
+  - API - To get past conversion rates
 
 ## Components
 #####  
@@ -50,8 +48,6 @@ This application will provide latest foreign exchange reference rates. Applicati
 | Footer | This will render the header | 
 
 ##  Work Break Down Structue
-
-
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Documentation  | H | 3hrs| 6 hrs | 6 hrs  |
@@ -60,10 +56,11 @@ This application will provide latest foreign exchange reference rates. Applicati
 | Components - Headernav | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base Currency | H | 4 hrs| 6 hrs |  6 hrs |
 | Components - Latest Stock with Base and Currency | H | 4 hrs| 6 hrs |  6 hrs |
-| BootStrap| H | 5 hrs| |   |  |
-| Testing and code refactoring  | H| 5 hrs  | |  |
-| BootStrap   | H | 5hrs| |  |
-| Total | H | 40hrs| |  |
+| BootStrap| H | 5 hrs| | 3 hr  | 3 hr |
+| Testing and code refactoring  | H| 5 hrs  |3 | 3 |3 hrs |
+| Issues fixe   | H | 5hrs| 3 hrs | 3 hrs | 
+| Recording    | H | 2 hrs| 2 hrs | 2 hrs | 
+| Total | H | 40hrs| | 51 hrs | 53 hrs
 
 ## Additional Libraries and Toola
   - React, React router , BootStrap,  
@@ -71,13 +68,12 @@ This application will provide latest foreign exchange reference rates. Applicati
 ## Code Snippet
    - Terniary operator used to dynamically show the lable.
 ![fish-logo](./code.jpg)
- - Code to display the nested object
+   - Code to display the nested object
  ![fish-logo](./code2.png)
-## 1- Issues and Resolutions
-**ERROR**: /src/App.js
+##  Issues and Resolutions
+   - ERROR**: /src/App.js
 SyntaxError: /Users/mk16681/sei/project-2/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:5)                              
 **RESOLUTION**: Missing the parent tag <> </>
-## 2- Issues and Resolutions
-**ERROR**: Selected vlalue in the drop down was not returning 
+  - ERROR: Selected vlalue in the drop down was not returning 
  ![fish-logo](./Bind.jpg)
   Binding was not implemented
