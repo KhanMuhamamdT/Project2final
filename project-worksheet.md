@@ -19,6 +19,7 @@ This application will provide latest foreign exchange reference rates. Applicati
     - https://git.generalassemb.ly/KhanMuhammadT/project-2.git
   - Deployment Ste
     - https://gallant-franklin-a8f9e8.netlify.com/
+  - Recording  
     - https://youtu.be/wYI_YiVxxZI
 ## Wireframes
 ![fish-logo](./wireframes.jpg)
